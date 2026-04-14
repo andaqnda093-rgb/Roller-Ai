@@ -1,0 +1,7 @@
+{
+  "name": "X-Gamer AI",
+  "description": "A high-performance, emotional, and multilingual AI assistant with internet search and mod generation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
